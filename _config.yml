@@ -3,4 +3,5 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Blank Jekyll Site" # the name of your site, e.g. ACME Corp.
 
 exclude:
+  - netlify.toml
   - README.md
