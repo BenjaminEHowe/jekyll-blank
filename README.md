@@ -1,6 +1,6 @@
-# Blank Jekyll Site [![Netlify Status](https://api.netlify.com/api/v1/badges/958ce273-2362-470a-9302-43c8a382f9f3/deploy-status)](https://app.netlify.com/sites/jekyll-blank/deploys)
+# Blank Jekyll Site
 
-This repository contains an (almost) completely blank [Jekyll](https://jekyllrb.com/) website, which has been deployed to [Netlify](https://www.netlify.com/) (https://jekyll-blank.beh.uk/) and [GitHub Pages](https://pages.github.com/) (https://benjaminehowe.github.io/jekyll-blank/). It's is mostly for my own reference, but I've made it public in case anyone else on the internet finds it useful! GitHub allows you to easily [create a new repository using this one as a template](https://github.com/BenjaminEHowe/jekyll-blank/generate).
+This repository contains an (almost) completely blank [Jekyll](https://jekyllrb.com/) website, which has been deployed to [Cloudflare Pages](https://pages.cloudflare.com/) (https://jekyll-blank.pages.dev/), [Netlify](https://www.netlify.com/) (jekyll-blank.netlify.app), and [GitHub Pages](https://pages.github.com/) (https://benjaminehowe.github.io/jekyll-blank/). It's is mostly for my own reference, but I've made it public in case anyone else on the internet finds it useful! GitHub allows you to easily [create a new repository using this one as a template](https://github.com/BenjaminEHowe/jekyll-blank/generate).
 
 ## What's the point?
 
